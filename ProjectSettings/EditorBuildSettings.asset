@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Regestration.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenue.unity
+    guid: f398b38790c543b4f8eb814e05672f7b
+  - enabled: 1
+    path: Assets/Scenes/play_France.unity
+    guid: 6a494f22b4830b148b84f9a427acc76b
+  - enabled: 1
+    path: Assets/Scenes/play_italy.unity
+    guid: fc87c4d45e781ae48b2ae544866cbf95
+  - enabled: 1
+    path: Assets/Scenes/play_japan.unity
+    guid: d53fae0ececd4b54c91e64e1aa955395
+  m_configObjects: {}
